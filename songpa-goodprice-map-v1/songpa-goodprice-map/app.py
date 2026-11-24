@@ -11,7 +11,7 @@ st.markdown("""<style>
 @media(max-width:680px){[data-testid="stMainBlockContainer"], [data-testid="stMain"] .block-container {padding-top:.65rem !important;}}
 </style>""", unsafe_allow_html=True)
 st.title('송파구 착한가격업소 지도')
-st.caption('서울시 착한가격업소 현황 제공 파일 기준 · 좌표 출처: 소상공인시장진흥공단 상가(상권)정보(제공 파일). 마커는 건물 기준 위치이며 실제 출입구·가격·영업 여부는 방문 전 확인해 주세요.')
+st.caption('서울시 착한가격업소 현황 제공 파일 기준')
 shops=json.loads((pathlib.Path(__file__).parent/'shops.json').read_text(encoding='utf-8'))
 def secret(name):
     try:
