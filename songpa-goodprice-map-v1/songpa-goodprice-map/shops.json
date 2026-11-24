@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "name": "들꽃마루사진관",
+    "address": "서울특별시 송파구 백제고분로50길 11-5 (방이동) 1층",
+    "type": "기타비요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "여권사진(8장)",
+        "price": 15000,
+        "category": "여권사진(8장)"
+      },
+      {
+        "name": "증명사진(8장)",
+        "price": 15000,
+        "category": "증명사진(8장)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "인더크림",
+    "address": "서울특별시 송파구 중대로27길 1 (오금동) 1층 상가",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "마들렌",
+        "price": 2000,
+        "category": "마들렌"
+      },
+      {
+        "name": "플레인스콘",
+        "price": 3500,
+        "category": "플레인스콘"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "샤샤머피",
+    "address": "서울특별시 송파구 법원로 128 (문정동) 지하1층 BG114호",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "아메리카노",
+        "price": 2300,
+        "category": "아메리카노"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "왕짜장 마천점",
+    "address": "서울특별시 송파구 성내천로 254 (마천동) 왕짜장 마천점",
+    "type": "중식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "자장면",
+        "price": 7000,
+        "category": "짜장면"
+      },
+      {
+        "name": "짬뽕",
+        "price": 8000,
+        "category": "짬뽕"
+      },
+      {
+        "name": "볶음밥",
+        "price": 8000,
+        "category": "볶음밥"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "반값족발 송파직영점",
+    "address": "서울특별시 송파구 중대로9길 48 (가락동) 102호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "반값족발大",
+        "price": 25900,
+        "category": "반값족발大"
+      },
+      {
+        "name": "반반족발大",
+        "price": 27900,
+        "category": "반반족발大"
+      },
+      {
+        "name": "매운족발大",
+        "price": 29900,
+        "category": "매운족발大"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "마싯는한끼",
+    "address": "서울특별시 송파구 백제고분로31길 13 (삼전동) 1층 104호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "왕돈가스",
+        "price": 9900,
+        "category": "돈가스"
+      },
+      {
+        "name": "제육덮밥",
+        "price": 9900,
+        "category": "제육덮밥"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "구가국수",
+    "address": "서울 송파구 올림픽로51길 13 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "잔치국수",
+        "price": 7000,
+        "category": "잔치국수"
+      },
+      {
+        "name": "고기왕만두",
+        "price": 6000,
+        "category": "고기왕만두"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "가락은하식당",
+    "address": "서울특별시 송파구 송파대로30길 39 (가락동) 1층 101호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "한돈암퇘지삼겹한판500g",
+        "price": 39000,
+        "category": "한돈암퇘지삼겹한판500g"
+      },
+      {
+        "name": "한돈암퇘지목살한판500g",
+        "price": 39000,
+        "category": "한돈암퇘지목살한판500g"
+      },
+      {
+        "name": "한돈암퇘지삼겹살180g",
+        "price": 15000,
+        "category": "한돈암퇘지삼겹살180g"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "원조명성곱창",
+    "address": "서울 송파구 백제고분로48길 8 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "야채곱창",
+        "price": 12000,
+        "category": "야채곱창"
+      },
+      {
+        "name": "순대곱창",
+        "price": 13000,
+        "category": "순대곱창"
+      },
+      {
+        "name": "순대볶음",
+        "price": 13000,
+        "category": "순대볶음"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "어쩌다양식포차",
+    "address": "서울 송파구 송파대로30길 41-25 1층",
+    "type": "양식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "명란오일파스타",
+        "price": 13000,
+        "category": "명란오일파스타"
+      },
+      {
+        "name": "까르보나라",
+        "price": 13000,
+        "category": "까르보나라"
+      },
+      {
+        "name": "봉골레파스타",
+        "price": 14000,
+        "category": "봉골레파스타"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "성내천칼국수",
+    "address": "서울 송파구 마천로 240 102호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "칼국수",
+        "price": 5500,
+        "category": "칼국수"
+      },
+      {
+        "name": "비빔국수",
+        "price": 6000,
+        "category": "비빔국수"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "명가냉삼",
+    "address": "서울 송파구 마천로41길 31 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "냉삼무한리필",
+        "price": 15000,
+        "category": "냉삼무한리필"
+      },
+      {
+        "name": "물밀면",
+        "price": 8000,
+        "category": "물밀면"
+      },
+      {
+        "name": "비빔밀면",
+        "price": 8500,
+        "category": "비빔밀면"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "국대돼지",
+    "address": "서울 송파구 마천로 167 1동 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "고기무한리필",
+        "price": 17900,
+        "category": "고기무한리필"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "머리하기좋은날",
+    "address": "서울 송파구 오금로44길 47 동궁리치웰아파트상가 102동 112호",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "염색",
+        "price": 50000,
+        "category": "염색"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "리본헤어",
+    "address": "서울 송파구 가락로36길 10 리본헤어",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "모닝펌(오전11시까지 예약)",
+        "price": 50000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "커피볶음",
+    "address": "서울 송파구 중대로16길 15 가락풍림상가 107호",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "아메리카노",
+        "price": 2900,
+        "category": "아메리카노"
+      },
+      {
+        "name": "카페라떼",
+        "price": 3500,
+        "category": "카페라떼"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "예쁜소나무",
+    "address": "서울 송파구 양재대로71길 15 예쁜소나무",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "아메리카노",
+        "price": 3000,
+        "category": "아메리카노"
+      },
+      {
+        "name": "카페라떼",
+        "price": 3500,
+        "category": "카페라떼"
+      },
+      {
+        "name": "복숭아아이스티",
+        "price": 3000,
+        "category": "복숭아아이스티"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "모어모어베이크샵",
+    "address": "서울 송파구 풍성로26길 51 모어모어베이크샵",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "에그타르트",
+        "price": 3000,
+        "category": "에그타르트"
+      },
+      {
+        "name": "휘낭시에",
+        "price": 2500,
+        "category": "휘낭시에"
+      },
+      {
+        "name": "아메리카노",
+        "price": 3000,
+        "category": "아메리카노"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "파네파네",
+    "address": "서울 송파구 법원로 114 B동 지하1층 162호",
+    "type": "양식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "알리오올리오",
+        "price": 8000,
+        "category": "알리오올리오"
+      },
+      {
+        "name": "크림빠네파스타",
+        "price": 10000,
+        "category": "크림빠네파스타"
+      },
+      {
+        "name": "누룽지빠쉐",
+        "price": 10000,
+        "category": "누룽지빠쉐"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "참좋은식탁",
+    "address": "서울 송파구 동남로9길 27 참좋은식탁",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "김치찌개",
+        "price": 3000,
+        "category": "김치찌개"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "송화반점",
+    "address": "서울 송파구 가락로 165 102호",
+    "type": "중식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "자장면",
+        "price": 6000,
+        "category": "짜장면"
+      },
+      {
+        "name": "짬뽕",
+        "price": 9000,
+        "category": "짬뽕"
+      },
+      {
+        "name": "탕수육中",
+        "price": 22000,
+        "category": "탕수육中"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "쎄오부대찌개",
+    "address": "서울 송파구 마천로 146 1층 1호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "부대찌개",
+        "price": 9000,
+        "category": "부대찌개"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "봉평매시담막국수",
+    "address": "서울특별시 송파구 송파대로37길 4-31 (석촌동, 선한빌딩) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "막국수",
+        "price": 9000,
+        "category": "막국수"
+      },
+      {
+        "name": "설렁탕",
+        "price": 9000,
+        "category": "설렁탕"
+      },
+      {
+        "name": "들깨수제비",
+        "price": 9000,
+        "category": "들깨수제비"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "쌍용헤어",
+    "address": "서울 송파구 올림픽로47길 9 쌍용헤어",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 40000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "단골세탁소",
+    "address": "서울 송파구 문정로11길 20 단골세탁소",
+    "type": "세탁업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "양복세탁료",
+        "price": 8000,
+        "category": "양복세탁"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "무진감자탕",
+    "address": "서울 송파구 마천로7가길 3-1 101호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "뼈해장국",
+        "price": 9000,
+        "category": "뼈해장국"
+      },
+      {
+        "name": "양선지해장국",
+        "price": 10000,
+        "category": "양선지해장국"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "동촌",
+    "address": "서울 송파구 토성로 35 2층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "돼지갈비김치찜정식",
+        "price": 10000,
+        "category": "돼지갈비김치찜정식"
+      },
+      {
+        "name": "골뱅이무침",
+        "price": 20000,
+        "category": "골뱅이무침"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "돈가야우가야",
+    "address": "서울 송파구 올림픽로47길 23 돈가야우가야",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "생삼겹살",
+        "price": 15000,
+        "category": "생삼겹살"
+      },
+      {
+        "name": "김치찌개(점심)",
+        "price": 8000,
+        "category": "김치찌개"
+      },
+      {
+        "name": "갈비탕(점심)",
+        "price": 9000,
+        "category": "갈비탕(점심)"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "내담",
+    "address": "서울특별시 송파구 바람드리길 33 (풍납동) 1층 1호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "아구찜小",
+        "price": 35000,
+        "category": "아구찜小"
+      },
+      {
+        "name": "대구뽈탕",
+        "price": 11000,
+        "category": "대구뽈탕"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "아카&춤추는헤어그룹",
+    "address": "서울 송파구 토성로 36 1층",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(파마)",
+        "price": 50000,
+        "category": "파마"
+      },
+      {
+        "name": "미용료(염색)",
+        "price": 50000,
+        "category": "염색"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "깡통구이최가",
+    "address": "서울특별시 송파구 성내천로18길 1 (거여동) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "삼겹살200g",
+        "price": 14000,
+        "category": "삼겹살200g"
+      },
+      {
+        "name": "돼지갈비200g",
+        "price": 14000,
+        "category": "돼지갈비200g"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "김밥나라",
+    "address": "서울특별시 송파구 마천로 194 (오금동) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "비빔밥",
+        "price": 7000,
+        "category": "비빔밥"
+      },
+      {
+        "name": "청국장",
+        "price": 8000,
+        "category": "청국장"
+      },
+      {
+        "name": "부대찌개",
+        "price": 8000,
+        "category": "부대찌개"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "포하이쌀국수",
+    "address": "서울특별시 송파구 오금로 527 (거여동) 1층 1호",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "양지차돌쌀국수",
+        "price": 9000,
+        "category": "양지차돌쌀국수"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "유부정원",
+    "address": "서울특별시 송파구 새말로 62 (문정동) 상가동 1층 117호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "유부초밥",
+        "price": 2500,
+        "category": "유부초밥"
+      },
+      {
+        "name": "어묵우동",
+        "price": 6500,
+        "category": "어묵우동"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "옥이네김밥&라면",
+    "address": "서울특별시 송파구 백제고분로14길 3 (잠실동) 103호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "라면",
+        "price": 4000,
+        "category": "라면"
+      },
+      {
+        "name": "소불고기비빔밥",
+        "price": 8000,
+        "category": "소불고기비빔밥"
+      },
+      {
+        "name": "비빔막국수",
+        "price": 6000,
+        "category": "비빔막국수"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "오백냥분식",
+    "address": "서울특별시 송파구 가락로 112 (석촌동) .",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "김치찌개",
+        "price": 7000,
+        "category": "김치찌개"
+      },
+      {
+        "name": "제육덮밥",
+        "price": 7000,
+        "category": "제육덮밥"
+      },
+      {
+        "name": "돌솥비빔밥",
+        "price": 7000,
+        "category": "돌솥비빔밥"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "헤어클럽",
+    "address": "서울특별시 송파구 석촌호수로 138 (삼전동) 1층",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 17000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 50000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "헤어싸롱스파캇트",
+    "address": "서울특별시 송파구 석촌호수로 144 (삼전동) 1층 2호",
+    "type": "이용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "이용료(커트)",
+        "price": 8000,
+        "category": "커트"
+      },
+      {
+        "name": "이용료(염색)",
+        "price": 10000,
+        "category": "염색"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "컬러바나다",
+    "address": "서울특별시 송파구 백제고분로32길 22 (삼전동) 1층",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 30000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "행담화",
+    "address": "서울특별시 송파구 풍성로25길 20 (풍납동) 1층",
+    "type": "베이커리",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "아메리카노",
+        "price": 2500,
+        "category": "아메리카노"
+      },
+      {
+        "name": "쌀오란다",
+        "price": 1600,
+        "category": "쌀오란다"
+      },
+      {
+        "name": "쌀술빵",
+        "price": 3000,
+        "category": "쌀술빵"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "어썸피크닉",
+    "address": "서울특별시 송파구 풍성로 75 (풍납동) 1층 101호",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "아메리카노",
+        "price": 2500,
+        "category": "아메리카노"
+      },
+      {
+        "name": "생크림와플",
+        "price": 3000,
+        "category": "생크림와플"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "MZ필라테스평생교육원",
+    "address": "서울특별시 송파구 백제고분로41길 26 (송파동) 2층",
+    "type": "기타비요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "그룹 3개월 24회",
+        "price": 360000,
+        "category": "그룹 3개월 24회"
+      },
+      {
+        "name": "그룹 6개월 48회",
+        "price": 594000,
+        "category": "그룹 6개월 48회"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "이정헤어",
+    "address": "서울특별시 송파구 백제고분로32길 26 (삼전동) 1층",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(남/커트)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(여/커트)",
+        "price": 17000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 35000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "풍납주먹고기",
+    "address": "서울특별시 송파구 토성로15길 3-3 (풍납동) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "주먹고기",
+        "price": 14000,
+        "category": "주먹고기"
+      },
+      {
+        "name": "잔치국수",
+        "price": 7000,
+        "category": "잔치국수"
+      },
+      {
+        "name": "칼국수",
+        "price": 8000,
+        "category": "칼국수"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "본가감자탕",
+    "address": "서울특별시 송파구 백제고분로22길 16 (삼전동) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "감자탕 小",
+        "price": 28000,
+        "category": "감자탕 小"
+      },
+      {
+        "name": "뼈해장국",
+        "price": 10000,
+        "category": "뼈해장국"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "명동홍두깨손칼국수",
+    "address": "서울특별시 송파구 마천로51길 32 (마천동) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "칼국수",
+        "price": 5000,
+        "category": "칼국수"
+      },
+      {
+        "name": "칼만두",
+        "price": 6000,
+        "category": "칼만두"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "헤어타임",
+    "address": "서울특별시 송파구 풍성로25길 37 (풍납동) 1층",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 40000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "수현머리이야기",
+    "address": "서울 송파구 바람드리길 35 수현머리이야기",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 13000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 30000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "단골미용실",
+    "address": "서울특별시 송파구 풍성로23길 42 (풍납동) 단골미용실",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 6000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(염색)",
+        "price": 10000,
+        "category": "염색"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 20000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "힐링타로카페",
+    "address": "서울특별시 송파구 풍성로25길 37-1 (풍납동) 1",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "아메리카노",
+        "price": 2500,
+        "category": "아메리카노"
+      },
+      {
+        "name": "카페라떼",
+        "price": 3200,
+        "category": "카페라떼"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "대박 대패삼겹&우삼겹",
+    "address": "서울특별시 송파구 천호대로152길 11-1 (풍납동) 1",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "대패삼겹살(100g)",
+        "price": 4500,
+        "category": "대패삼겹살(100g)"
+      },
+      {
+        "name": "우삼겹(100g)",
+        "price": 4500,
+        "category": "우삼겹(100g)"
+      },
+      {
+        "name": "삼겹살(100g)",
+        "price": 4500,
+        "category": "삼겹살(100g)"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "긴밀",
+    "address": "서울특별시 송파구 삼전로9길 19 (잠실동) 1층 102호",
+    "type": "양식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "오일파스타",
+        "price": 13000,
+        "category": "오일파스타"
+      },
+      {
+        "name": "크림파스타",
+        "price": 14000,
+        "category": "크림파스타"
+      },
+      {
+        "name": "크림리조또",
+        "price": 14000,
+        "category": "크림리조또"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "왕짜장 풍납점",
+    "address": "서울특별시 송파구 올림픽로55길 11 (풍납동) 1층",
+    "type": "중식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "자장면",
+        "price": 4000,
+        "category": "짜장면"
+      },
+      {
+        "name": "짬뽕",
+        "price": 7000,
+        "category": "짬뽕"
+      },
+      {
+        "name": "울면",
+        "price": 6500,
+        "category": "울면"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "송파인커피",
+    "address": "서울특별시 송파구 바람드리길 62 (풍납동) 1층",
+    "type": "기타요식업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "아메리카노",
+        "price": 2000,
+        "category": "아메리카노"
+      },
+      {
+        "name": "믹스골드",
+        "price": 2200,
+        "category": "믹스골드"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "JM헤어 오땡큐",
+    "address": "서울특별시 송파구 마천로 192 (오금동) 1층",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 50000,
+        "category": "파마"
+      },
+      {
+        "name": "미용료(염색)",
+        "price": 45000,
+        "category": "염색"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "문정김밥천국",
+    "address": "서울특별시 송파구 법원로 114 (문정동) 엠스테이트 E동 지하1층 175호",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "김치찌개",
+        "price": 7500,
+        "category": "김치찌개"
+      },
+      {
+        "name": "된장찌개",
+        "price": 7500,
+        "category": "된장찌개"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "아우네",
+    "address": "서울특별시 송파구 거마로2길 7 (거여동) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "물냉면",
+        "price": 8000,
+        "category": "물냉면"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "소림만두냉면",
+    "address": "서울특별시 송파구 양재대로62길 14 (가락동) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "만두",
+        "price": 5000,
+        "category": "만두"
+      },
+      {
+        "name": "만둣국",
+        "price": 8000,
+        "category": "만둣국"
+      },
+      {
+        "name": "냉면",
+        "price": 8000,
+        "category": "냉면"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "두꺼비닷컴",
+    "address": "서울특별시 송파구 동남로18길 39 (가락동) 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "떡볶이",
+        "price": 4500,
+        "category": "떡볶이"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "새서울세탁소",
+    "address": "서울특별시 송파구 동남로 17길 11 1층",
+    "type": "세탁업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "양복세탁료",
+        "price": 7000,
+        "category": "양복세탁"
+      },
+      {
+        "name": "셔츠세탁료",
+        "price": 2000,
+        "category": "셔츠세탁"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "미가미용실",
+    "address": "서울특별시 송파구 올림픽로 12길 58 1층",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 11000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 38000,
+        "category": "파마"
+      },
+      {
+        "name": "미용료(염색)",
+        "price": 33000,
+        "category": "염색"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "챠밍미용실",
+    "address": "서울특별시 송파구 성내천로18길 3 챠밍미용실",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 7000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 25000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "삼전신성김밥",
+    "address": "서울특별시 송파구 백제고분로 22길 28 삼전신성김밥",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "김밥",
+        "price": 3500,
+        "category": "김밥"
+      },
+      {
+        "name": "물냉면",
+        "price": 6500,
+        "category": "물냉면"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "김자순수제돈까스",
+    "address": "서울특별시 송파구 석촌호수로12길 16 .",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "돈가스 2장(포장)",
+        "price": 6500,
+        "category": "돈가스"
+      },
+      {
+        "name": "돈가스(매장)",
+        "price": 9000,
+        "category": "돈가스"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "방이뚝배기",
+    "address": "서울특별시 송파구 오금로23길 25 .",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "청국장",
+        "price": 5000,
+        "category": "청국장"
+      },
+      {
+        "name": "순두부찌개",
+        "price": 5000,
+        "category": "순두부찌개"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "훼밀리김밥",
+    "address": "서울 송파구 마천로 237 훼밀리김밥",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "김밥",
+        "price": 4000,
+        "category": "김밥"
+      },
+      {
+        "name": "김치찌개",
+        "price": 6500,
+        "category": "김치찌개"
+      },
+      {
+        "name": "된장찌개",
+        "price": 6000,
+        "category": "된장찌개"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "푼양이부대&김치찌개",
+    "address": "서울 송파구 송파대로30길 41-5 1층(가락동)",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "김치찌개",
+        "price": 8500,
+        "category": "김치찌개"
+      },
+      {
+        "name": "김치찌개2인(포장)",
+        "price": 16000,
+        "category": "김치찌개"
+      },
+      {
+        "name": "부대찌개2인(포장)",
+        "price": 18000,
+        "category": "부대찌개"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "장수설렁탕",
+    "address": "서울특별시 송파구 백제고분로 148",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "설렁탕",
+        "price": 6000,
+        "category": "설렁탕"
+      },
+      {
+        "name": "불고기(200g.호주산)",
+        "price": 12000,
+        "category": "불고기(200g.호주산)"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "윤가네김밥",
+    "address": "서울특별시 송파구 가락로 208 윤가네김밥",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "김밥",
+        "price": 3500,
+        "category": "김밥"
+      },
+      {
+        "name": "돈가스",
+        "price": 8500,
+        "category": "돈가스"
+      },
+      {
+        "name": "제육볶음",
+        "price": 8500,
+        "category": "제육볶음"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "서울분식",
+    "address": "서울특별시 송파구 가락로 42길 13 서울분식",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "비빔밥",
+        "price": 6500,
+        "category": "비빔밥"
+      },
+      {
+        "name": "김치찌개",
+        "price": 7500,
+        "category": "김치찌개"
+      },
+      {
+        "name": "된장찌개",
+        "price": 6500,
+        "category": "된장찌개"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "맛고을식당",
+    "address": "서울특별시 송파구 올림픽로 45길 21 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "백반",
+        "price": 7500,
+        "category": "백반"
+      },
+      {
+        "name": "김치찌개",
+        "price": 8500,
+        "category": "김치찌개"
+      },
+      {
+        "name": "된장찌개",
+        "price": 8500,
+        "category": "된장찌개"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "국일관",
+    "address": "서울특별시 송파구 성내천로63길 6-1 (거여동) 국일관",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "자장면",
+        "price": 5000,
+        "category": "짜장면"
+      },
+      {
+        "name": "짬뽕",
+        "price": 7000,
+        "category": "짬뽕"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "강원도청국장",
+    "address": "서울특별시 송파구 오금로 19길 14 강원도청국장",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "청국장",
+        "price": 9000,
+        "category": "청국장"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "화담",
+    "address": "서울특별시 송파구 올림픽로8길 12 1층",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "삼겹살",
+        "price": 9000,
+        "category": "삼겹살"
+      },
+      {
+        "name": "김치찌개(점심)",
+        "price": 7000,
+        "category": "김치찌개"
+      },
+      {
+        "name": "서울불고기정식",
+        "price": 9000,
+        "category": "서울불고기정식"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "벧엘손칼국수",
+    "address": "서울특별시 송파구 마천로 41길 22 벧엘손칼국수",
+    "type": "한식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "칼국수",
+        "price": 6000,
+        "category": "칼국수"
+      },
+      {
+        "name": "물냉면",
+        "price": 8000,
+        "category": "물냉면"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "홍보성",
+    "address": "서울특별시 송파구 마천로28길 6 (오금동) 1층",
+    "type": "중식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "자장면",
+        "price": 7000,
+        "category": "짜장면"
+      },
+      {
+        "name": "짬뽕",
+        "price": 8000,
+        "category": "짬뽕"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "옛날맛짜장",
+    "address": "서울특별시 송파구 가락로 113 옛날맛짜장",
+    "type": "중식",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "자장면",
+        "price": 7000,
+        "category": "짜장면"
+      },
+      {
+        "name": "짬뽕",
+        "price": 8500,
+        "category": "짬뽕"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "헤어필",
+    "address": "서울특별시 송파구 성내천로30길 16-1 헤어필",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 10000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 30000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "전혜영미용실",
+    "address": "서울특별시 송파구 토성로 38-6 상가 301호 (풍납동, 한강극동아파트)",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 5000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 25000,
+        "category": "파마"
+      },
+      {
+        "name": "미용료(염색)",
+        "price": 15000,
+        "category": "염색"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "전영숙헤어샵",
+    "address": "서울특별시 송파구 거마로 20길 23 전영숙헤어샵",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 13000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 35000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "이혜경롤앤컷",
+    "address": "서울특별시 송파구 성내천로 222 이혜경롤앤컷",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트/남)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 25000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "은지헤어",
+    "address": "서울특별시 송파구 동남로 6길 11 은지헤어",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 10000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 30000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "에덴미용실",
+    "address": "서울특별시 송파구 마천로 61나길 10",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 10000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 25000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "샬롬미용실",
+    "address": "서울특별시 송파구 백제고분로15길14-1 샬롬미용실",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 7000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 25000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "박미용실",
+    "address": "서울특별시 송파구 백제고분로27길 41 .",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 10000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 25000,
+        "category": "파마"
+      },
+      {
+        "name": "미용료(커트+드라이)",
+        "price": 15000,
+        "category": "커트"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "목화미용실",
+    "address": "서울특별시 송파구 거마로 17길 11",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 8000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 25000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "맨헤어",
+    "address": "서울특별시 송파구 올림픽로 145 B1층 A20호(잠실동)",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 10000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(염색)",
+        "price": 25000,
+        "category": "염색"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "김복남헤어장",
+    "address": "서울특별시 송파구 백제고분로 32길 6-1 103호",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 15000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 50000,
+        "category": "파마"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "개성시대",
+    "address": "서울특별시 송파구 풍성로 6길 9 개성시대",
+    "type": "미용업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "미용료(커트)",
+        "price": 12000,
+        "category": "커트"
+      },
+      {
+        "name": "미용료(파마)",
+        "price": 40000,
+        "category": "파마"
+      },
+      {
+        "name": "미용료(염색)",
+        "price": 30000,
+        "category": "염색"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "아주세탁",
+    "address": "서울특별시 송파구 오금로24길13 아주세탁",
+    "type": "세탁업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "양복세탁료",
+        "price": 8000,
+        "category": "양복세탁"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "모아모아세탁",
+    "address": "서울특별시 송파구 송이로 19 모아모아세탁",
+    "type": "세탁업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "양복세탁료(일반)",
+        "price": 8000,
+        "category": "양복세탁"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "국제세탁소",
+    "address": "서울특별시 송파구 문정로 11길 12 국제세탁소",
+    "type": "세탁업",
+    "lat": null,
+    "lng": null,
+    "items": [
+      {
+        "name": "양복세탁료",
+        "price": 8000,
+        "category": "양복세탁"
+      }
+    ]
+  }
+]
